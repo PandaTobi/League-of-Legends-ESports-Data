@@ -2,8 +2,8 @@
 """
 Recorded Values:
 Winrate	[X]
-KDA Avg.
-CS per min [X]
+KDA Avg. [X]
+CS per min []
 Gold per min [X]
 %DMG [X]
 """
